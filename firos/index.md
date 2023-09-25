@@ -27,7 +27,7 @@ This operating system requires the following to run:
 
 ## Installation Instructions
 ### Flashing your Teensy 4.1 with MicroPython
-Step 1: Go to the MicroPython website and (download)[https://micropython.org/download/TEENSY41/] the HEX file for the latest stable release of MicroPython (in bold) (at the time of writing, it is version 1.20.0. This may be different. Ignore the nightly builds).
-Step 2: Go to the PJRC website and (download)[https://www.pjrc.com/teensy/loader.html] the Teensy Loader *COMMAND LINE VERSION*. Follow the compile from source instructions. Make sure `make` works on your system.
+Step 1: Go to the MicroPython website and [download](https://micropython.org/download/TEENSY41/) the HEX file for the latest stable release of MicroPython (in bold) (at the time of writing, it is version 1.20.0. This may be different. Ignore the nightly builds).
+Step 2: Go to the PJRC website and [download](https://www.pjrc.com/teensy/loader.html) the Teensy Loader *COMMAND LINE VERSION*. Follow the compile from source instructions. Make sure `make` works on your system.
 Step 3: Download and install LuBOOT (unreleased). Follow the LuBOOT installation instructions.
-ect.
+ect. docs in progress.
