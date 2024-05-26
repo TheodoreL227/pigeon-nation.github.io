@@ -31,3 +31,5 @@ Step 1: Go to the MicroPython website and [download](https://micropython.org/dow
 Step 2: Go to the PJRC website and [download](https://www.pjrc.com/teensy/loader.html) the Teensy Loader *COMMAND LINE VERSION*. Follow the compile from source instructions. Make sure `make` works on your system.
 Step 3: Download and install LuBOOT (unreleased). Follow the LuBOOT installation instructions.
 ect. docs in progress.
+
+-- in progress --
